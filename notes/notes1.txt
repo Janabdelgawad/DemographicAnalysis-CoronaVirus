@@ -1,0 +1,15 @@
+--without foreign keys,
+--revise on small numerics(doctor phone num, room number of days, staff phone number, patient phone number, treatment treatment code, bill fees),
+--naming conventions phone_number or staff_phone_number etc.. and if phone_number then how to differentiate between phone number in doctor and phone number in staff,
+--mafesh multi valued relationships,
+--location in hospital is primary key untill further change,
+--nurse name?
+--CODE BEFORE ERD ROLA
+
+
+////////
+type of room --> room type
+
+room_number(f) --> room_number
+
+age --> S_age
